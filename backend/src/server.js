@@ -23,10 +23,11 @@ app.listen(PORT,() => {
   console.log("mgbs@discente.ifpe.edu.br");//informa o propietario
   console.log("github: https://github.com/miguelgabriel01");//informa o repositorio do propietario da aplicação
   console.log("Cristo vem!!!");//mensagem motivacional sobre CRISTO REI!!!!
-  console.log("︻╦̵̵̿╤─ ҉ - - - - - - -")
 });
 
 /**
  * Criar bando no site https://www.mongodb.com/cloud/atlas
  * 
  */
+
+//mgbs@discente.ifpe.edu.br
