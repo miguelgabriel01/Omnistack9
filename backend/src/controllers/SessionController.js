@@ -11,9 +11,9 @@ module.exports = {
    if(!user){
      user = await User.create({ email });//recebe o email do usuario apos verificação e salva se n tiver um já cadastrado com esse email
    }
-   else if(user){
+  /* else if(user){
     return res.status(400).json({  alert: "Infelizmente um usuario já possui conta com este E-mail. por favor, informe outro E-mail valido"})
-   }
+   }*/
 
 
    return res.json( user );//retorna o resultado do cadastro como um json
